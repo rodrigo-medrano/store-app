@@ -46,6 +46,9 @@ lerna-debug.log*
 .temp
 .tmp
 
+#mongo_data
+/mongo_data
+
 # Runtime data
 pids
 *.pid
