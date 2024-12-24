@@ -1,5 +1,0 @@
-quit
-use admin
-mongo -u admin
-use admin
-db.createUser({ user: "rodrigo", pwd: "Producto12", roles: ["dbOwner"] })
